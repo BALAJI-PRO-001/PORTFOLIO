@@ -230,7 +230,7 @@ export const projects = [
       "MongoDb",
     ],
     category: "web app",
-    github: "https://github.com/BALAJI-PRO-001/MEAN_UMS",
+    github: "https://github.com/BALAJI-PRO-001/MERN_ESTATE_APP",
     webapp: "https://mern-estate-zlv0.onrender.com/",
   }
 ];
